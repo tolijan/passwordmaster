@@ -156,7 +156,7 @@ private boolean salted = false;
         jScrollPane2.setViewportView(jTextArea1);
 
         jLabel6.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
-        jLabel6.setText("When using PBKDF2, BCrypt or SCrypt encryptionthe salt is added automatically");
+        jLabel6.setText("When using PBKDF2, BCrypt or SCrypt encryption the salt is added automatically");
         setJMenuBar(jMenuBar1);
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
